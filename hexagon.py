@@ -1,12 +1,12 @@
 import turtle
 
 # Number of Sides 	Polygon name 	Exterior Angle
-# 5 	Pentagon 	72
-# 6 	Hexagon 	60
-# 7 	Heptagon 	51.42
-# 8 	Octagon 	45
-# 9 	Nanogon 	40
-# 10 	Decagon 	36
+#       5 	            Pentagon 	72
+#       6 	            Hexagon 	60
+#       7 	            Heptagon 	51.42
+#       8 	            Octagon 	45
+#       9 	            Nanogon 	40
+#       10 	            Decagon 	36
 
 screen = turtle.Screen()
 
