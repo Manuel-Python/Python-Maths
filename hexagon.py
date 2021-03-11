@@ -33,6 +33,14 @@ mathTurtle.pendown()
 
 for i in range(8):
     mathTurtle.forward(100)  # Assuming the side of a pentagon is 100 units
-    mathTurtle.right(45)  # Turning the turtle by 72 degree
+    mathTurtle.right(45)  # Turning the turtle by 45 degree
+
+mathTurtle.penup()
+mathTurtle.goto(-250, -25)
+mathTurtle.pendown()
+
+for i in range(10):
+    mathTurtle.forward(100)  # Assuming the side of a pentagon is 100 units
+    mathTurtle.right(36)  # Turning the turtle by 36 degree
 
 screen.mainloop()
